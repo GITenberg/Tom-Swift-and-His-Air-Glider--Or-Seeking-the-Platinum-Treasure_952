@@ -1144,7 +1144,7 @@ They hardly would bring the carriage up to the door."
 "Good idea," commented Tom, and they hurried to the main thoroughfare
 that passed the Russian's house.
 
-"Here they are!" cried Ned, Who was in the lead. "There's been a
+"Here they are!" cried Ned, who was in the lead. "There's been a
 carriage here as sure as you're a foot high and it's a rubber-tired one
 too."
 
@@ -1683,7 +1683,7 @@ there sounded in the air above a curious throbbing noise.
 "Bless my gasolene! What's that?" cried Mr. Damon.
 
 "The airship! It's the airship!" yelled Tom, as he saw a great dark
-shape slowly approaching. "Ned is bringing her to met us."
+shape slowly approaching. "Ned is bringing her to meet us."
 
 "Good!" cried the detective. "We need it I'm about winded!"
 
@@ -2027,7 +2027,7 @@ The friction on the plane surfaces was not equalized, and the gale
 forced the craft along slightly. But, compared to the terrific power of
 the wind, the air glider was practically at a standstill, and this was
 remarkable when one considers the force of the hurricane that was
-blowing above below and through it.
+blowing above, below and through it.
 
 For actually that was what the hurricane was doing. It was as if an
 immense box kite was suspended in the air, without a string to hold it
@@ -3733,7 +3733,7 @@ magneto has gone out of business again."
 
 "Why not?"
 
-"Because we are approaching a large town--Owbinsk I think it is-the
+"Because we are approaching a large town--Owbinsk I think it is--the
 police there will be there to get us. Keep on to the forest again!"
 
 "I can't!" cried Tom. "We've got to go down, police or no police."
